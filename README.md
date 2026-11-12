@@ -118,7 +118,7 @@ Faça as requisições no Insomnia/Postman e tire prints mostrando:
 
 Cole os prints nesta seção:
 ### Prints dos testes
-_adicione aqui as imagens dos testes realizados no Insomnia ou Postman._
+Prints tirados no Insomnia e estão nas pastas prints_insomnia
 
 ## Observação
 O script fornecido pela atividade usa a função `PASSWORD()` do MariaDB para gravar a senha. O cadastro e o login deste projeto usam a mesma função para manter compatibilidade com esse script. Em uma aplicação real, o recomendado é utilizar uma biblioteca própria para hash de senhas, como bcrypt.
