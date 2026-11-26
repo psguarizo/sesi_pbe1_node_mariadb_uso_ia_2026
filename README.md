@@ -36,7 +36,8 @@ backend_usos_ia/
 
 ## Prints Insomnia
 
-![DELETE].(Prints/DELETE.png)
+![DELETE](Prints/DELETE.png)
+
 ## Como configurar e testar
 
 1. Instale o Node.js e o MariaDB (ou inicie o MariaDB pelo XAMPP).
