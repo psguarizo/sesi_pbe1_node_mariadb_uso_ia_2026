@@ -41,22 +41,22 @@ Os testes das rotas foram realizados utilizando o Insomnia.
 ### Usuários
 
 #### GET - Listar usuários
-![GET Usuários](prints/prints_Insomnia/GET-USUARIOS.png)
+![GET Usuários](./Prints/prints_Insomnia/GET-USUARIOS.png)
 
 #### GET - Buscar usuário por ID
-![GET Usuário por ID](prints/prints_Insomnia/GET-USUARIO-ID.png)
+![GET Usuário por ID](./Prints/prints_Insomnia/GET-USUARIO-ID.png)
 
 #### POST - Cadastrar usuário
-![POST Cadastrar usuário](prints/Prints_Insomnia/POST-CADASTRAR-USUARIO.png)
+![POST Cadastrar usuário](./Prints/prints_Insomnia/POST-CADASTRAR-USUARIO.png)
 
 #### POST - Fazer login
-![POST Fazer login](prints/prints_Insomnia/POST-FAZER-LOGIN.png)
+![POST Fazer login](./Prints/prints_Insomnia/POST-FAZER-LOGIN.png)
 
 #### PUT - Editar usuário
-![PUT Editar usuário](prints/prints_Insomnia/PUT-EDITAR-USUARIO.png)
+![PUT Editar usuário](./Prints/prints_Insomnia/PUT-EDITAR-USUARIO.png)
 
 #### DELETE - Excluir usuário
-![DELETE Usuário](prints/prints_Insomnia/DELETE.png)
+![DELETE Usuário](./Prints/prints_Insomnia/DELETE.png)
 
 ## Como configurar e testar
 
