@@ -34,9 +34,29 @@ backend_usos_ia/
 └── server.js
 ```
 
-## Prints Insomnia
+## Prints dos testes
 
-![DELETE](Prints/DELETE.png)
+Os testes das rotas foram realizados utilizando o Insomnia.
+
+### Usuários
+
+#### GET - Listar usuários
+![GET Usuários](Prints_Insomnia/GET-USUARIOS.png)
+
+#### GET - Buscar usuário por ID
+![GET Usuário por ID](Prints_Insomnia/GET-USUARIO-ID.png)
+
+#### POST - Cadastrar usuário
+![POST Cadastrar usuário](Prints_Insomnia/POST-CADASTRAR-USUARIO.png)
+
+#### POST - Fazer login
+![POST Fazer login](Prints_Insomnia/POST-FAZER-LOGIN.png)
+
+#### PUT - Editar usuário
+![PUT Editar usuário](Prints_Insomnia/PUT-EDITAR-USUARIO.png)
+
+#### DELETE - Excluir usuário
+![DELETE Usuário](Prints_Insomnia/DELETE.png)
 
 ## Como configurar e testar
 
